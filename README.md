@@ -1,6 +1,6 @@
-# **Pathway to AI Mastery Series**
+# **Pathway to AI Mastery Series: A Personal Contribution to Open-Source AI Education** => **Work in Progress**
 
-Welcome to the **Pathway to AI Mastery Series** repository! This project is dedicated to providing open-source, comprehensive courses that guide you from foundational knowledge to mastery in various areas of Artificial Intelligence, including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, MLOps, and Generative AI.
+Welcome to the **Pathway to AI Mastery Series** repository! This project is dedicated to providing open-source, comprehensive courses that guide you from foundational knowledge to mastery in various areas of Artificial Intelligence, including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Generative AI, and MLOps.
 
 Whether you're a beginner or looking to deepen your expertise, these courses will provide structured learning paths and hands-on experience with real-world applications.
 
@@ -24,13 +24,14 @@ Explore the different pathways to AI mastery:
     
     Gain insights into NLP, covering tokenization, embeddings, language models, and applications in text analytics.
 
-5. [**Pathway to MLOps Mastery**](https://ancilcleetus.github.io/Pathway-to-MLOps-Mastery/)
+5. [**Pathway to Generative AI Mastery**](https://ancilcleetus.github.io/Pathway-to-Generative-AI-Mastery/)
+    
+    Learn to build generative models like GANs, VAEs, and transformers, and understand their applications in creative AI fields.
+    
+6. [**Pathway to MLOps Mastery**](https://ancilcleetus.github.io/Pathway-to-MLOps-Mastery/)
     
     Explore the practices and tools for deploying and maintaining ML systems, including CI/CD, model monitoring, and scalable infrastructure.
 
-6. [**Pathway to Generative AI Mastery**](https://ancilcleetus.github.io/Pathway-to-Generative-AI-Mastery/)
-    
-    Learn to build generative models like GANs, VAEs, and transformers, and understand their applications in creative AI fields.
 
 ## **About**
 
